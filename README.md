@@ -5,6 +5,10 @@
 
 This repository is the primary umbrella repository for this Jors Academy research area. Related projects have been consolidated under `projects/` so the methods, implementations, experiments, and case studies can be maintained and explored from one place.
 
+### Native flagship
+
+The repository root contains the actively maintained **simulation calibration, uncertainty-quantification, and noisy-optimization framework** described below. The entries under `projects/` are consolidated companion projects.
+
 ### Included projects
 
 - [`cpp-accelerated-optimization-simulation-python`](projects/cpp-accelerated-optimization-simulation-python/)
