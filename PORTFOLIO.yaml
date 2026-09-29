@@ -1,0 +1,16 @@
+schema_version: 1
+repository: simulation-optimization-and-uncertainty-quantification
+role: umbrella
+axis: methodology
+area: simulation-optimization-uq
+status: active
+owner: jorsacademy
+projects:
+  - cpp-accelerated-optimization-simulation-python
+  - manufacturing-discrete-event-simulation-optimization-python
+  - parallel-monte-carlo-stochastic-optimization-python
+  - stochastic-kriging-noisy-simulation-optimization
+conventions:
+  provenance_records: true
+  reproducibility_expected: true
+  benchmark_assumptions_documented: true
