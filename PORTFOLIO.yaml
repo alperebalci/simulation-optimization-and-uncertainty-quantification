@@ -8,6 +8,7 @@ owner: jorsacademy
 projects:
   - cpp-accelerated-optimization-simulation-python
   - manufacturing-discrete-event-simulation-optimization-python
+  - jackson-queueing-networks-capacity-optimization
   - parallel-monte-carlo-stochastic-optimization-python
   - stochastic-kriging-noisy-simulation-optimization
 conventions:
