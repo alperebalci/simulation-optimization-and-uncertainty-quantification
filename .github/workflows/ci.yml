@@ -55,3 +55,18 @@ jobs:
         with:
           name: simulation-calibration-uq-smoke
           path: artifacts/*.json
+
+  jackson-network:
+    runs-on: ubuntu-24.04
+    defaults:
+      run:
+        working-directory: projects/jackson-queueing-networks-capacity-optimization
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install queueing project
+        run: python -m pip install -e '.[dev]'
+      - name: Test queueing project
+        run: pytest
