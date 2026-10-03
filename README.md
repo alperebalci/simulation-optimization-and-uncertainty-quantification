@@ -13,6 +13,7 @@ The repository root contains the actively maintained **simulation calibration, u
 
 - [`cpp-accelerated-optimization-simulation-python`](projects/cpp-accelerated-optimization-simulation-python/)
 - [`manufacturing-discrete-event-simulation-optimization-python`](projects/manufacturing-discrete-event-simulation-optimization-python/)
+- [`jackson-queueing-networks-capacity-optimization`](projects/jackson-queueing-networks-capacity-optimization/) — analytical queueing-network and capacity-design benchmark
 - [`parallel-monte-carlo-stochastic-optimization-python`](projects/parallel-monte-carlo-stochastic-optimization-python/)
 - [`stochastic-kriging-noisy-simulation-optimization`](projects/stochastic-kriging-noisy-simulation-optimization/) — native metamodeling and ranking-selection benchmark
 
